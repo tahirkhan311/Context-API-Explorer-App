@@ -1,0 +1,53 @@
+{
+  "auth": [
+    {
+      "id": 1,
+      "username": "kminchelle",
+      "password": "0lelplR",
+      "token": "mock-token-web-12345"
+    },
+    {
+      "id": 2,
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka",
+      "token": "mock-token-native-67890"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "price": 79.99,
+      "thumbnail": "https://via.placeholder.com/150?text=Headphones",
+      "description": "High-quality wireless headphones with noise cancellation."
+    },
+    {
+      "id": 2,
+      "title": "USB-C Cable",
+      "price": 12.99,
+      "thumbnail": "https://via.placeholder.com/150?text=Cable",
+      "description": "Durable USB-C charging and data cable."
+    },
+    {
+      "id": 3,
+      "title": "Phone Stand",
+      "price": 15.49,
+      "thumbnail": "https://via.placeholder.com/150?text=Stand",
+      "description": "Adjustable phone stand for desk use."
+    },
+    {
+      "id": 4,
+      "title": "Portable Charger",
+      "price": 34.99,
+      "thumbnail": "https://via.placeholder.com/150?text=Charger",
+      "description": "20000mAh portable power bank with fast charging."
+    },
+    {
+      "id": 5,
+      "title": "Screen Protector",
+      "price": 9.99,
+      "thumbnail": "https://via.placeholder.com/150?text=Protector",
+      "description": "Tempered glass screen protector for most phones."
+    }
+  ]
+}
